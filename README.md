@@ -26,9 +26,15 @@ var store = require('glove').pick('yourGloveBox');
 store.set('name', 'Randy');
 store.get('name') // Randy
 
+store.set('score', 0);
+store.inc('score', 5); // store.get('score') === 5
+store.dec('score', 5); // store.get('score') === 0
+
 // store in localStorage
 store.$set('historyName', 'djyde');
 store.$get('historyName') // djyde
+
+
 
 ```
 
