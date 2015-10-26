@@ -1,7 +1,7 @@
 # Glove
 
-[![NPM version](https://img.shields.io/npm/v/runfile.svg?style=flat-square)](https://www.npmjs.com/package/glove)
-[![NPM download](https://img.shields.io/npm/dm/runfile.svg?style=flat-square)](https://www.npmjs.com/package/glove)
+[![NPM version](https://img.shields.io/npm/v/glove.svg?style=flat-square)](https://www.npmjs.com/package/glove)
+[![NPM download](https://img.shields.io/npm/dm/glove.svg?style=flat-square)](https://www.npmjs.com/package/glove)
 
 ![LOGO](http://ww4.sinaimg.cn/large/62580dd9gw1excdwl15gyj203k03kq2s.jpg)
 
